@@ -1,5 +1,5 @@
 # Hmem
-This repository is the implementation of Hmem, which could be automatically calculated the Hmem、MLP、Power metrics.
+Hmem is able to automate the calculation of various memory metrics and the correlation coefficients between the corresponding memory metrics and load throughput.
 
 ## Publications
 
