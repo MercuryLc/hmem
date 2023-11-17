@@ -19,9 +19,9 @@ https://www.benchcouncil.org/bench2023/accepted.html
 
 # Usage 
 
+In the code repository, `correlation.ipynb` describe the calculation process of Hmem metric. The only thing you need to do is replace your own memory data with the format in the `input.xlsx` table and then just execute the correlation.ipynb file in order.
 
-# Case
-
+The `input.xlsx` and `output.xlsx` tables shows the performance data we used to evaluate the metrics in the paper, which you can check if you are interested.
 
 # People 
 
