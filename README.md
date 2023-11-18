@@ -7,6 +7,7 @@ Hmem, a holistic memory performance metric, calculated from a fusion of bandwidt
 
 # Publications
 
+## Paper
 Hmem: A Holistic Memory Performance Metric for Cloud Computing
 
 Yuyang Li , Ning Li , Yilei Zhang , Jianmei Guo, Bo Huang, Mengbang Xing, Wenxin Huang
@@ -15,7 +16,12 @@ Bench 2023: International Symposium on Benchmarking
 
 https://www.benchcouncil.org/bench2023/accepted.html
 
+## Patent
 
+内存测试方法、装置、电子设备及存储介质
+- 中国专利
+- CN115878394A
+- 力宇阳; 郭健美; 李成栋; 黄闻欣; 李宁; 黄波
 
 # Usage 
 
